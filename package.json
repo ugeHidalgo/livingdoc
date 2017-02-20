@@ -1,0 +1,23 @@
+{
+  "name": "livingdoc",
+  "version": "1.0.0",
+  "description": "Living doc",
+  "main": "server.js",
+  "author": "Uge Hidalgo",
+  "engine": {
+    "node": "4.2.1"
+  },
+  "dependencies": {},
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ugeHidalgo/livingdoc.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ugeHidalgo/livingdoc/issues"
+  },
+  "homepage": "https://github.com/ugeHidalgo/livingdoc#readme"
+}
